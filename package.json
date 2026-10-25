@@ -1,0 +1,13 @@
+{
+  "name": "ai-code-review-counterexamples",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Sanitized synthetic counterexamples for evidence-driven AI code review",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
