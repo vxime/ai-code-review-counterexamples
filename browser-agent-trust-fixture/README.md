@@ -11,6 +11,6 @@ This is a **public, synthetic-only research fixture**. It is deliberately isolat
 
 Source-bounded use: never interpret a tool's ability to read this page as proof of what the vendor stored or transmitted. In particular, Node fixture CI and cloud Fetch extraction are separate from TinyFish paid browser automation, AgentQL REST and AgentQL SDK execution.
 
-Hosting note: if served via `raw.githack.com` / `rawcdn.githack.com`, this is an **independent third-party CDN/proxy**, not a GitHub Pages security boundary; it may display a browser confirmation page and does not guarantee uptime. Only synthetic HTML is intentionally exposed. Record the returned actual page content before an experiment, and never use private data or credentials on this host. No production deployment is implied.
+Hosting note: the readback used `https://cdn.githubraw.com/vxime/ai-code-review-counterexamples/152cdc9a58e6a8fcf2d5857820d60774f0967555/browser-agent-trust-fixture/` pinned to the exact source commit. This is an **independent third-party CDN/proxy**, not GitHub Pages and not a security boundary; its availability, caching and byte-for-byte equivalence were not audited. Only synthetic HTML is intentionally exposed. Record the returned actual page content before an experiment, and never use private data or credentials on this host. No production deployment is implied.
 
 These public files are not a publication of the eventual article or its private Evidence Pack.
